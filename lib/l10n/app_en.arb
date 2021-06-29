@@ -1,0 +1,20 @@
+{
+    "helloWorld": "Hello World!",
+    "loginPage": "Login Page",
+    "landingPage": "Landing Page",
+    "devices": "Devices",
+    "map": "Map",
+    "close": "Close",
+    "loading": "Loading...",
+    "viewAllDevices": "View All Devices",
+    "error": "Error",
+    "invalidPhoneNumber": "Invalid Phone Number",
+    "loginInfo": "Login Info",
+    "enterUsername": "Enter Username",
+    "enterPassword": "Enter Password",
+    "submit": "Submit",
+    "invalidUserPass": "Error - Invalid username and password combination",
+    "currentLang": "English",
+    "lockList": "Lock List",
+    "noLocks": "No locks currently registered"
+}

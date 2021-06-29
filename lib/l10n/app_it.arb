@@ -1,0 +1,20 @@
+{
+    "helloWorld": "Hello World!",
+    "loginPage": "Pagina di accesso",
+    "landingPage": "Pagina di destinazione",
+    "devices": "Dispositivi",
+    "map": "Mappa",
+    "close": "Chiudere",
+    "loading": "Caricamento...",
+    "viewAllDevices": "Visualizza tutti i dispositivi",
+    "error": "Errore",
+    "invalidPhoneNumber": "Numero di telefono non valido",
+    "loginInfo": "Informazioni di accesso",
+    "enterUsername": "Inserisci il nome utente",
+    "enterPassword": "Inserisci la password",
+    "submit": "Invia",
+    "invalidUserPass": "Errore - Combinazione di nome utente e password non valida",
+    "currentLang": "Italiano",
+    "lockList": "Elenco delle serrature",
+    "noLocks": "Nessun lucchetto attualmente registrato"
+}

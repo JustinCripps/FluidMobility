@@ -1,0 +1,20 @@
+{
+    "helloWorld": "Hello World!",
+    "loginPage": "Page de connexion",
+    "landingPage": "Page d'atterrissage",
+    "devices": "Dispositifs",
+    "map": "Carte",
+    "close": "Fermer",
+    "loading": "Chargement...",
+    "viewAllDevices": "Voir tous les appareils",
+    "error": "Erreur",
+    "invalidPhoneNumber": "Numéro de téléphone invalide",
+    "loginInfo": "Informations de connexion",
+    "enterUsername": "Entrez le nom d'utilisateur",
+    "enterPassword": "Entrez le mot de passe",
+    "submit": "Soumettre",
+    "invalidUserPass": "Erreur - Combinaison invalide de nom d'utilisateur et de mot de passe",
+    "currentLang": "Français",
+    "lockList": "Liste des serrures",
+    "noLocks": "Aucun verrou n'est actuellement enregistré"
+}

@@ -1,0 +1,20 @@
+{
+    "helloWorld": "Hola Mundo!",
+    "loginPage": "Página de inicio de sesión",
+    "landingPage": "Página de aterrizaje",
+    "devices": "Dispositivos",
+    "map": "Mapa",
+    "close": "Cerrar",
+    "loading": "Cargando...",
+    "viewAllDevices": "Ver todos los dispositivos",
+    "error": "Error",
+    "invalidPhoneNumber": "Número de teléfono no válido",
+    "loginInfo": "Información de acceso",
+    "enterUsername": "Introduzca el nombre de usuario",
+    "enterPassword": "Introduzca la contraseña",
+    "submit": "Enviar",
+    "invalidUserPass": "Error - Combinación inválida de nombre de usuario y contraseña",
+    "currentLang": "Español",
+    "lockList": "Lista de cerraduras",
+    "noLocks": "No hay cerraduras registradas actualmente"
+}
